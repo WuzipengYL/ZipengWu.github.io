@@ -2,12 +2,12 @@
 title: "A novel dynamically adjusted regressor chain for taxi demand prediction"
 collection: publications
 category: Conference paper(oral)
-permalink: [/publication/2009-10-01-paper-title-number-1](https://ieeexplore.ieee.org/abstract/document/9207160)
+permalink: [/publication/2009-10-01-paper-title-number-1]
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://ieeexplore.ieee.org/abstract/document/9207160)'
 citation: 'Z. Wu and G. Lian, "A novel dynamically adjusted regressor chain for taxi demand prediction," 2020 International Joint Conference on Neural Networks (IJCNN), Glasgow, UK, 2020, pp. 1-10, doi: 10.1109/IJCNN48605.2020.9207160.'
 ---
 
