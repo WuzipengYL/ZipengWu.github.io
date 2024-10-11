@@ -2,7 +2,7 @@
 title: "A novel dynamically adjusted regressor chain for taxi demand prediction"
 collection: publications
 category: Conference paper(oral)
-permalink: 
+permalink: /publication/2020-07-19-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-10-01
 venue: 'Journal 1'
